@@ -1,4 +1,7 @@
 {
-  "author": "Jane Doe",
-  "description": "A project that does something awesome",
+  "name": "fcc-test",
+  "version": "1.0.1",
+  "description": "test test",
+  "author": "amine-volk",
+  "license": "MIT",
 }
